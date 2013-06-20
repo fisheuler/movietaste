@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="movie/WEB-INF/src"/>
+	<classpathentry kind="src" output="work" path="work"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/axis-1.4.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/axis-jaxrpc-1.4.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/axis-saaj-1.4.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/axis-wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/commons-math-1.2.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/slf4j-jcl-1.5.8.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/uncommons-math-1.0.2.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/uncommons-math-1.2.jar"/>
+	<classpathentry kind="lib" path="movie/WEB-INF/lib/mahout-core-0.2-SNAPSHOT.jar" sourcepath="E:/HyperService/eclipse3.5/workspace/Taste/core/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/usr/share/tomcat7/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="/usr/share/tomcat7/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/usr/share/tomcat7/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/usr/share/tomcat7/lib/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="/usr/share/tomcat7/lib/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="output" path="WebContent"/>
+</classpath>
